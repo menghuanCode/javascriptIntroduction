@@ -1,0 +1,6 @@
+isFinite(Infinity)
+isFinite(-Infinity)
+isFinite(NaN)
+isFinite(undefined)
+isFinite(null)
+isFinite(-1)
